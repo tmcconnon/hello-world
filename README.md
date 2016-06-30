@@ -1,3 +1,2 @@
 # hello-world
-Voting App
-Looking to learn some AJAX/jQuery
+Voting App. Looking to learn some AJAX/jQuery
